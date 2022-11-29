@@ -56,3 +56,11 @@ form {
   display: block;
   padding: 30px 25px;
 }
+small {
+  font-size: 85%;
+  font-weight: 400%;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+}
